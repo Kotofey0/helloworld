@@ -2,9 +2,6 @@
 //  main.cpp
 //  NORKA-13MC
 //
-//  Created by kino on 16.12.13.
-//  Copyright (c) 2013 Chapai's Video Blog. All rights reserved.
-//
 
 #include <stdio.h>
 #include <iostream>
@@ -122,6 +119,8 @@ void PHelp(){
     printf("VECT ROW (matrix)                   - записать вектор строку\n");
     printf("VECT COL (matrix)                   - записать вектор столбец\n");
     printf("DIAG (matrix)                       - записать диагональную матрицу\n");
+    int a = 4;
+    a++;
     
     
 }
